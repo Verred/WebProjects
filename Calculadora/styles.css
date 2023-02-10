@@ -53,7 +53,7 @@ body{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-template-rows: repeat(4, 1fr);
-  
+
 }
 #PanelErase{
     align-items: center;
@@ -74,8 +74,18 @@ body{
 }
 
 button{
-   border-radius: 10%;
-   font-size: 2.5em;
+   border-radius: 0.75em;
+   font-size: 20px;
    width: 80%;
    height: 80%;
+   background:#e8e8e8;
+   outline-color: #000000;
+}
+
+button:hover {
+   transform: translateY(-0.33em);
+}
+
+button:active  {
+    transform: translateY(0);
 }
