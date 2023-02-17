@@ -4,7 +4,7 @@
 }
 html {
     height: 100%;
-    background: yellow;
+    background: #bfafaf;
     text-align: center;
 }
 
@@ -14,7 +14,7 @@ body{
     align-items: center;
     height: 80%;
     width: 50%;
-    background-color: greenyellow;
+    background-color: #0f1b27;
     padding-top: 1em;
     margin-top: 5%;
     margin-left: 25%;
@@ -23,7 +23,7 @@ body{
     width: 70%;
     height: 20%;
     margin: 2.5% 0;
-    background-color: grey;
+    background-color: #f2f2f2;
     text-align: right;
     font-size: 2.5rem;
     align-items: center;
@@ -78,7 +78,7 @@ button{
    font-size: 20px;
    width: 80%;
    height: 80%;
-   background:#e8e8e8;
+   background:#f2f2f2;
    outline-color: #000000;
 }
 
